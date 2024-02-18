@@ -8,4 +8,4 @@ Este projeto é estritamente destinado para fins educacionais. O uso inadequado 
 
 ### Como Contribuir 🤝
 
-Se você está interessado em contribuir com este projeto, sinta-se à vontade para enviar pull requests com melhorias, correções ou novos recursos. Sua contribuição é fundamental para tornar este projeto mais acessível e útil para a comunidade de língua portuguesa.
+Se você está interessado em contribuir com este projeto, sinta-se à vontade para clonar o repositório e postar com melhorias, correções ou novos recursos. Sua contribuição é fundamental para tornar este projeto mais acessível e útil para a comunidade de língua portuguesa.

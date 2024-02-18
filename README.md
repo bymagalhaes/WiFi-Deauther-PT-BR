@@ -16,7 +16,7 @@ Se você está interessado em contribuir com este projeto, sinta-se à vontade p
 
 ## Password
 
-a senha de `pwned` é `deauther`
+a senha de acesso da rede WIFI: `pwned` é `deauther`
 
 ## projeto original:
 https://github.com/SpacehuhnTech/esp8266_deauther

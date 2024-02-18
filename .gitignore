@@ -1,32 +1,12 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.bin
 
-# Precompiled Headers
-*.gch
-*.pch
+*.elf
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+*.map
 
-# Fortran module files
-*.mod
-*.smod
+.DS_Store
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+*.pyc
 
-# Executables
-*.exe
-*.out
-*.app
+utils/web_converter/css_html_js_minify/__pycache__/
